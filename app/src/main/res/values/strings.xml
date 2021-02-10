@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">RecoveryProcessDemo</string>
+  <string name="btn_desc">去主进程取url，并且回到webview进程跳转\n(每次都是IPC获取的url)</string>
+  <string name="url_desc">目前需要跳转的url如下：</string>
+  <string name="url_edit_hint">在此处设置需要跳转的url</string>
+  <string name="url_btn_text">设置并保存需要跳转的url</string>
+  <string name="start_web_view">打开另一个进程的webview页面</string>
+  <string name="btn_clear">加载空页面(方便测试)</string>
+</resources>
